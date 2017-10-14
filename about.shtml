@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang='en'>
+<head>
+	<title>About</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="navstyles.css">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">
+</head>
+    <body>
+        
+       
+        
+       <!--#include file="sitewide/nav.html" -->
+        
+    <div class="headerImage">
+       <img src="SiteMedia/CliffClouds.jpg" alt="topPic" class="topPic">
+       <h1 class="pageTitle">About This Site</h1>
+    </div>
+    
+    <h1 class="contentHeading">Content</h1>
+    
+    <p class="contentDesc">This site has 10 different pages all informing the visitor about different aspects of snowbirds. Most pictures were taken by the site creator and any pictures that were not are referenced. The reference link is located at the bottom of each page with external images.</p>
+    
+    <h1 class="contentHeading">Design</h1>
+    
+    <p class="contentDesc">This site uses a modern and clean design. The design was inspired both by the iOS 11 user interface guidelines and Snowbird's actual website, snowbird.com. There are two CSS files, one for the navigation bar and another for everything else. There are very few inline styles. These are used because there are a few elements that need a minor change from the larger class they are part of. It is more efficient to add one inline style change rather than make a whole new class. All the pictures in the site show the natural beauty of the resort and make it a desireable place to visit.</p>
+    
+    <h1 class="contentHeading">Graphics and Layout</h1>
+    
+    <p class="contentDesc">This site is very repetitive. Each page follows the same style with a related header image and easy to read titles and descriptions. The global navigation is fixed and available everywhere on the site. Page titles are accurite and the features of the site are compatable with all web browsers.</p>
+    
+    <h1 class="contentHeading">Content in Depth</h1>
+    
+    <p class="contentDesc">This site includes a trail map of Snowbird on the Skiing page. All photo references are cited on this page. </p>
+    
+    <h1 class="contentHeading">Code</h1>
+    
+    <p class="contentDesc">SSI was used for the navigation bar of the site. The code is organized based and comments make it easy to read.</p>
+    
+    <h1 class="contentHeading">References</h1>
+    
+    <p class="contentDesc">https://www.snowbird.com/lodging/</p>
+    <p class="contentDesc">https://ironblosam.net/images/slider/winter.jpg</p>
+    <p class="contentDesc">https://www.snowbird.com/lodging/</p>
+    
+    <script src="scripts.js"></script>
+    </body>
+</html>
+    
+    

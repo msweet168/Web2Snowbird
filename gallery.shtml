@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang='en'>
+<head>
+	<title>Gallery</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="navstyles.css">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">
+</head>
+    <body>
+        
+        
+        
+        
+        <!--#include file="sitewide/nav.html" -->
+        
+    <div class="headerImage">
+       <img src="SiteMedia/SunriseMountain.jpg" alt="topPic" class="topPic">
+       <h1 class="pageTitle" style="color: black;">Gallery</h1>
+    </div>
+    
+    <h1 class="pageHeading" style="padding-bottom: 50px;">One of the most beautiful places on earth.
+    </h1>
+    
+    <img src="SiteMedia/CliffZoom.jpg" alt="topPic" class="galleryImage">
+    <img src="SiteMedia/snowTrees.jpg" alt="topPic" class="galleryImage">
+    <img src="SiteMedia/CliffClouds.jpg" alt="topPic" class="galleryImage">
+    <img src="SiteMedia/Panorama.jpg" alt="topPic" class="galleryImage">
+    <img src="SiteMedia/skiier1.jpg" alt="topPic" class="galleryImage">
+    <img src="SiteMedia/MountainCloud.jpg" alt="topPic" class="galleryImage">
+   
+    <script src="scripts.js"></script>
+    </body> 
+</html> 

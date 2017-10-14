@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang='en'>
+<head>
+	<title>Lifts</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="navstyles.css">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">
+</head>
+    <body>
+        
+        
+        
+        
+       <!--#include file="sitewide/nav.html" -->
+        
+    <div class="headerImage">
+       <img src="SiteMedia/skiier2.jpg" alt="topPic" class="topPic">
+       <h1 class="pageTitle" style="color: black;">Lifts</h1>
+    </div>
+    
+
+    <h1 class="contentHeading">11 lifts to keep you going.</h1>
+    
+    <ul id="liftList">
+        <li>▶︎ Ariel Tram: From Snowbird center to the summit in only 10 minutes. </li>
+        <li>▶︎ Chickadee: Great for beginners and guests at the Cliff Lodge. </li>
+        <li>▶︎ Wilbere: Explore the edge of the Gad Valley. </li>
+        <li>▶︎ MidGad: Get off in the middle or ride to the top for lunch. </li>
+        <li>▶︎ Baby Thunder: Access the perfect ski area for the whole family.</li>
+        <li>▶︎ Gadzoom: Experience the best of the Gad Valley. </li>
+        <li>▶︎ Mineral Basin Express: Explore the powder-filled basin on the other side of the summit.</li>
+        <li>▶︎ Baldy: Ski from Snowbird to Alta and double the terrain. </li>
+        <li>▶︎ Peruvian Express: Nearly to the top in one shot. Access to Mineral Basin through the tunnel.  </li>
+        <li>▶︎ Little Cloud: From Gad to the summit. </li>
+        <li>▶︎ Gad 2: Access extreme terrain in the upper Gad Valley. </li>
+    </ul>
+    
+    
+    
+        
+    <script src="scripts.js"></script>
+    </body>
+</html>

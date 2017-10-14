@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang='en'>
+<head>
+	<title>Snowbird</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="navstyles.css">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">
+</head>
+<body>
+    
+    
+    <!--#include file="sitewide/nav.html" -->
+    
+    <div id="imageDiv">
+        <img src="SiteMedia/CliffClouds.jpg" alt="topPic" class="topPic">
+    
+        <h1 class="pageTitle">Welcome to the Mountain.</h1>
+    
+        <h3 class="pageSubtitle">Located in Little Cottonwood Canyon high above Salt Lake City, Snowbird is the perfect place for a winter or summer getaway.</h3>
+        
+        <p id = "scrollIndicator">Scroll<br>▼</p>
+    </div>
+    
+    <h1 class="contentHeading">Skiing and Snowboarding:</h1>
+    
+    <img src="SiteMedia/skiier1.jpg" alt="skiier1" class="detailPic">
+    
+    <p class="contentDesc">Being in Salt Lake City, Snowbird already has the greatest snow on earth. Add 11 lifts, 170 runs, and over 3000 feet vertical and you have a ski experience that is unforgettable. </p>
+    
+    <a class="moreLink" href="skiing.shtml">▶︎ Explore the Mountain</a>
+
+    
+    <div class="sectionSeperator"></div>
+
+
+    <h1 class="contentHeading">Lodging:</h1>
+    
+    <img src="SiteMedia/CliffZoom.jpg" alt="skiier1" class="detailPic" id="lodgingPic">
+    
+    <p class="contentDesc">With four luxury hotels on site, there is no reason to leave the mountain during your stay! Go right from your room to the slopes with ski-in/ski-out locations. Take a refreshing swim or relax at the Cliff Spa. Snowbird lodging makes your time off the slopes almost as enjoyable as when you're on them.  </p>
+    
+    <a class="moreLink" href="lodging.shtml">▶︎ Find Your Hotel</a>
+
+
+    <div class="sectionSeperator"></div>
+
+
+    <h1 class="contentHeading">Dining:</h1>
+    
+    <img src="SiteMedia/Food1.jpg" alt="skiier1" class="detailPic">
+    
+    <p class="contentDesc">The food at Snowbird is just as good as its ski conditions. From casual restaurants to fine dining, you can find it all on the mountain. Wherever you are, wheather it be at the summit of the mountain or in your hotel, you are always close to delicious food.</p>
+    
+    <a class="moreLink" href="dining.shtml">▶︎ Find a Restaurant</a>
+    
+    <div class="endLinkDiv">
+        <div class="refButtonDiv">
+        <button type="button" onclick="window.location.href='about.shtml'" class="endLink">Site Refrences</button>
+        </div>
+    </div>
+
+<script src="scripts.js"></script>
+
+</body>
+</html>

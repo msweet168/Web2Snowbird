@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang='en'>
+<head>
+	<title>The Inn</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="navstyles.css">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">
+</head>
+    <body>
+        
+       
+        
+        
+        <!--#include file="sitewide/nav.html" -->
+        
+    <div class="headerImage">
+       <img src="SiteMedia/TheInn.jpg" alt="topPic" class="topPic">
+       <h1 class="pageTitle" style="color: white;">The Inn</h1>
+    </div>
+    
+    <h1 class="pageHeading">The beauty of a classic.</h1>
+    <h1 class="hotelDesc">The Inn is the picture of a classic ski lodge right in the pedestrian village. Enjoy amenities such as ski lockers, an outdoor pool and hot tub, free wifi, and a game room. The Inn will keep you comfortable and well rested for your powder-filled days on the slopes. </h1>
+    
+    <p class="referenceCaption">Header image obtained from https://www.snowbird.com/lodging/</p>
+    
+    <script src="scripts.js"></script>
+    
+    </body>
+</html>

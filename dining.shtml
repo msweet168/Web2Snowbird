@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang='en'>
+<head>
+	<title>Dining</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="navstyles.css">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">
+</head>
+    <body>
+        
+        
+        <!--#include file="sitewide/nav.html" -->
+        
+    <div class="headerImage">
+       <img src="SiteMedia/CliffClouds.jpg" alt="topPic" class="topPic">
+       <h1 class="pageTitle">Dining</h1>
+    </div>
+    
+    <h1 class="pageHeading" style="padding-bottom: 50px;">The best food at 11,000 feet.
+    </h1>
+    
+    
+    <h1 class="contentHeading">The Aerie:</h1>
+    
+    <img src="SiteMedia/TheAerie.JPG" alt="TheCliffLodge" class="detailPic">
+    
+    <p class="contentDesc">Enjoy delicious modern-American food high above the Cliff Lodge on floor 10. If you're a wine lover, the Arie is perfect for you. Browse the wine selecton using iPads to find the perfect glass for you. With beautiful mountain views and delicious food, your meal will be unforgettable. Serving Breakfast and Dinner daily.</p>
+
+
+    <h1 class="contentHeading">El Chanate:</h1>
+    
+    <img src="SiteMedia/elchanate.JPG" alt="TheIronBlossom" class="detailPic">
+    
+    <p class="contentDesc" style="padding-bottom: 80px;">In the mood for Mexican? El Chanate has got you covered. Located on level A of The Cliff Lodge, stop by to experience the traditional Mexican flavor and atmosphere. Serving Lunch and Dinner daily. </p>
+    
+    <script src="scripts.js"></script>
+    </body> 
+</html> 

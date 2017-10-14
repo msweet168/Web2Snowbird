@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang='en'>
+<head>
+	<title>The Iron Blosam</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="navstyles.css">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">
+</head>
+    <body>
+        
+        
+        
+        <!--#include file="sitewide/nav.html" -->
+        
+    <div class="headerImage">
+       <img src="SiteMedia/ironblosamlodge.jpg" alt="topPic" class="topPic">
+       <h1 class="pageTitle" style="color: black;">The Iron Blosam</h1>
+    </div>
+    
+    <h1 class="pageHeading">The ski lodge with style.</h1>
+    <h1 class="hotelDesc">The Iron Blosam lodge will give you a first class timeshare experience. Enjoy a swimming pool, indoor hot tub, fitness center, restaurant, and game room. <br><br> In the mood for Italian? Head over to The Wildflower for delicious pizzas, pastas, and various wines. <br><br> Staying connected is easy with the lodge's free wifi and getting to the mountain is quick and free with complimentary suttle service. <br><br> The Iron Blosam Lodge is the perfect place to have an unforgettable vacation. </h1>
+    
+    <p class="referenceCaption">Header picture obtained from https://ironblosam.net/images/slider/winter.jpg</p>
+    
+    <script src="scripts.js"></script>
+    
+    </body>
+</html>

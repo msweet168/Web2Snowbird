@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang='en'>
+<head>
+	<title>Lodging</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="navstyles.css">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">
+</head>
+    <body>
+        
+        
+        <!--#include file="sitewide/nav.html" -->
+        
+    <div class="headerImage">
+       <img src="SiteMedia/lodging.jpg" alt="topPic" class="topPic">
+       <h1 class="pageTitle" style="color: black;">Lodging</h1>
+    </div>
+    
+    <h1 class="pageHeading" style="padding-bottom: 50px;">The perfect home away from home.</h1>
+    
+    
+    <h1 class="contentHeading">The Cliff Lodge and Spa:</h1>
+    
+    <img src="SiteMedia/TheCliff.jpg" alt="TheCliffLodge" class="detailPic">
+    
+    <p class="contentDesc">Enjoy luxury between your time on the slopes. The Cliff Lodge features beautiful rooms along with a variety of restaurants, a swimming pool, three hot tubs, and of course the world-class Ciff Spa.</p>
+    
+    <a class="moreLink" href="cliff.shtml">▶︎ More Info</a>
+
+
+    <h1 class="contentHeading">The Iron Blosam Lodge:</h1>
+    
+    <img src="SiteMedia/TheIronBlossom.jpg" alt="TheIronBlossom" class="detailPic">
+    
+    <p class="contentDesc">Spend your nights on the mountain in style. Featuring a swimming pool, indoor hot tub, fitness center, restaurant and game room, you will be glad to come back to the Iron Blosam Lodge to recover after a long day of skiing.</p>
+    
+    <a class="moreLink" href="blosam.shtml">▶︎ More Info</a>
+
+    
+    <h1 class="contentHeading">The Inn:</h1>
+    
+    <img src="SiteMedia/TheInn.jpg" alt="TheInn" class="detailPic">
+    
+    <p class="contentDesc">Enjoy the feel of a classic ski lodge with some extra amenities including a pool, hottub, and fitniss center.</p>
+    
+    <a class="moreLink" href="inn.shtml">▶︎ More Info</a>
+
+
+    <h1 class="contentHeading">The Lodge:</h1>
+    
+    <img src="SiteMedia/TheLodge.jpg" alt="TheLodge" class="detailPic">
+    
+    <p class="contentDesc">Only a short distance from Snowbird Center, The Lodge will give you all the comforts of home with a variety of condominium options.</p>
+    
+    <a class="moreLink" href="lodge.shtml">▶︎ More Info</a>
+
+    <p class="referenceCaption">All resort thumbnails on this page obtained from https://www.snowbird.com/lodging/</p>
+
+    <script src="scripts.js"></script>
+    
+    </body> 
+</html> 

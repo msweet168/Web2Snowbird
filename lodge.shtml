@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang='en'>
+<head>
+	<title>The Lodge</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="navstyles.css">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">
+</head>
+    <body>
+        
+        
+        
+        
+        <!--#include file="sitewide/nav.html" -->
+        
+    <div class="headerImage">
+       <img src="SiteMedia/TheLodge.jpg" alt="topPic" class="topPic">
+       <h1 class="pageTitle" style="color: black;">The Lodge</h1>
+    </div>
+    
+    <h1 class="pageHeading">The feel of home, right on the mountain.</h1>
+    <h1 class="hotelDesc">With many variations of condomniums, The Lodge will give you all the comforts of home during your vacation. Choose a hotel bedroom or a one bedroom with a loft. <br><br> The lodge is only a short walk away from Snowbird Center where you can eat at delicious restaurants such as The Steak House and The Forklift or hop on the Ariel Tram for a quick ride up the mountain.</h1>
+    
+    <p class="referenceCaption">Resort header obtained from https://www.snowbird.com/lodging/</p>
+    
+    <script src="scripts.js"></script>
+    
+    </body>
+</html>

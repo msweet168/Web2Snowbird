@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang='en'>
+<head>
+	<title>The Cliff Lodge</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="navstyles.css">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">
+</head>
+    <body>
+        
+        
+        
+       <!--#include file="sitewide/nav.html" -->
+        
+    <div class="headerImage">
+       <img src="SiteMedia/lodging.jpg" alt="topPic" class="topPic">
+       <h1 class="pageTitle" style="color: black;">The Cliff</h1>
+    </div>
+    
+    <h1 class="pageHeading">More than just a ski lodge.</h1>
+    <h1 class="hotelDesc">The Cliff Lodge brings all the luxuries of a world-class hotel to the classic ski lodge. It's not just a place to sleep at night, enjoy three restaurants, shopping, breathtaking views and more. <br><br> No need for a shuttle bus. Go right from your room to the slopes with the convenience of ski-in/ski-out. <br><br> Don't want to sleep with your gear? Every room comes with a ski locker with heated boot warmers, so no need to worry about wet feet in the morning. Need a pair of skis or are you having a problem with yours? The Cliff Lodge features a ski rental and repair shop right next to the locker room. <br><br> After a long day on the slopes, take a refreshing swim in the pool or relax in one of the three hot tubs. Want to take your relaxation to the next level? Head up to the Cliff Spa and choose one of treatments. The Cliff Spa also features its own fitness and rooftop pool and hot tub. <br><br> Looking for some fun? Head down to the game room for a game of Billards or Air Hockey. All of that playing will surely build up an appetite. Take the elevator to the top and visit The Aerie for some delicious modern-american food. In the mood for Mexican? Head down to El Chanate. Maybe you just want a quick coffee, snack, or pastrie. The Atrium serves breakfast and lunch daily and you can find the perfect snack to fit your craving at Cliff Sundries. <br><br> The Cliff Lodge will turn your ski vacation into a one of a kind experience.</h1>
+    <script src="scripts.js"></script>
+    </body>
+</html>
