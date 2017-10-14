@@ -183,6 +183,17 @@ p {
     width: 70%; 
 }
 
+#liftList {
+    list-style-type: none; 
+    margin-bottom: 80px; 
+}
+
+#liftList li {
+    font-weight: 700; 
+    font-size: 1.4em; 
+    margin-left: 8%; 
+    padding-bottom: 10px;
+}
 
 
 
