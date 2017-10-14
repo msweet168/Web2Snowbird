@@ -81,6 +81,20 @@ p {
     opacity: 0.8; 
 }
 
+.pageHeading {
+    font-size: 2.7em; 
+    text-align: center; 
+    margin-bottom: 5px; 
+}
+
+.pageSubheading {
+    font-size: 2em; 
+    text-align: center;
+    margin-right: 25px; 
+    margin-left: 25px; 
+    
+}
+
 .contentHeading {
     font-size: 2.5em;
     margin-left: 5%; 
@@ -118,6 +132,10 @@ p {
     width: 310px; 
 }
 
+#lodgingPic {
+    margin-top: -35px; 
+}
+
 
 .sectionSeperator {
     width: 100%; 
@@ -151,6 +169,18 @@ p {
 
 .endLink:hover {
     background-color: #d0cccc;
+}
+
+.designLink {
+    color: black; 
+    text-decoration: none; 
+}
+
+#trailMap {
+    display: block; 
+    margin: 0 auto;
+    border-radius: 10px;
+    width: 70%; 
 }
 
 
